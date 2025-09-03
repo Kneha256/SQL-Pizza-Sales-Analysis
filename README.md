@@ -16,6 +16,9 @@ Key Table:
   3. pizzas - pizza_id, price and pizza_type_id
   4. pizza_types - category and ingredients
 
+# Database Design
+EER Diagram - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/tree/main/EER_Diagram ]
+
 # UseCases:
 Basic:
 Retrieve the total number of orders placed.
