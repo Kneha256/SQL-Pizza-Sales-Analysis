@@ -45,4 +45,4 @@ Determine the top 3 most ordered pizza types based on revenue for each pizza cat
 Link - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/tree/main/Queries ] <br>
 
 # Report: <br>
-Link - []
+Link - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/blob/main/pizza_sales_report.pdf ]
