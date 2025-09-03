@@ -77,7 +77,6 @@ MODIFY size VARCHAR(10);
 ALTER TABLE pizza_types
 MODIFY name VARCHAR(100),
 MODIFY category VARCHAR(50);
--- ingredients stays TEXT (because it can be long)
 
 -- End transaction
 COMMIT;
