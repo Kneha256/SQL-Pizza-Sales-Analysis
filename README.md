@@ -9,7 +9,7 @@ Language - SQL
 
 # Dataset: 
 The dataset contains information about pizza types, size, price, orders and order details.
-source - Kaggle.com
+source - kaggel.com [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/tree/main/Dataset ]
 Key Table:
   1. orders - order_date, order_time and order_id
   2. order_details - quantity and pizza_id
