@@ -16,7 +16,7 @@ Key Table:
   3. pizzas - pizza_id, price and pizza_type_id
   4. pizza_types - category and ingredients
 
-# Database Design
+# Database Design:
 EER Diagram - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/tree/main/EER_Diagram ]
 
 # UseCases:
@@ -40,3 +40,5 @@ Calculate the percentage contribution of each pizza type to total revenue.
 Analyze the cumulative revenue generated over time.
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
+# Solution:
+Link - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/tree/main/Queries ]
