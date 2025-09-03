@@ -17,6 +17,7 @@ Key Table:
   4. pizza_types - category and ingredients
 
 # Database Design:
+Database_SQL_Code - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/blob/main/Database_query.sql ]
 EER Diagram - [ https://github.com/Kneha256/SQL-Pizza-Sales-Analysis/tree/main/EER_Diagram ]
 
 # UseCases:
